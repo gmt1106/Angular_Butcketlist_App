@@ -3,6 +3,7 @@ const path = require("path");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const mongoose = require("mongoose");
+const config = require("./config/database");
 const bucketlist = require("./controllers/bucketlist");
 
 //connect mongoose to our database
