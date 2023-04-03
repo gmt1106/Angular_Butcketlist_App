@@ -1,7 +1,5 @@
 # Angular_Butcketlist_App
 
-Source: Learn Angular: 4 Angular Projects
-
 ## Instruction
 1. In `Angular_Butcektlist_App/angular-src/` directory, run `ng build` to build the angular project. Built project is saved in `Angular_Butcektlist_App/public`
 2. Install MondoDB and run it
@@ -16,3 +14,7 @@ Source: Learn Angular: 4 Angular Projects
 - Wrote code for the GET, POST and DELETE routes
 - Generated two new components, `AddList` and `ViewList`
 - Implemented the application’s service that hosts the server communication logics
+
+## Source 
+- Learn Angular: 4 Angular Projects
+- bootswatch.com
